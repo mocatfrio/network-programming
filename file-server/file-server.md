@@ -7,7 +7,7 @@
 5. Linux Operating System
 
 ## Description
-* There are a **synchronous** server and an **asynchronous** server. The difference is when we execute something synchronously, we wait for it to finish before moving on to another task. In the other hand, when we execute something asynchronously, we can move on to another task before it finishes.
+* There are a **synchronous** server and an **asynchronous** server. What is the difference? When we execute something synchronously, we wait for it to finish before moving on to another task. In the other hand, when we execute something asynchronously, we can move on to another task before it finishes.
 * Server has some features, i.e.:
   * Create a new directory 
   * Delete a directory 
