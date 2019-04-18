@@ -111,7 +111,7 @@
 	
 	![](img/ss1.png)
 
-2. First, let's try to uploading a document from `/home/{user}/Documents/work/FTPServer/upload/` to `/home/{user}/Documents/work/FTPServer/server/`.
+2. First, let's try to upload a document from `/home/{user}/Documents/work/FTPServer/upload/` to `/home/{user}/Documents/work/FTPServer/server/`.
 	
 	![](img/ss2.png)
 
@@ -122,7 +122,7 @@
 
 	![](img/ss3.png)
 
-3. Second, let's try to downloading a document from `/home/{user}/Documents/work/FTPServer/server/` to `/home/{user}/Documents/work/FTPServer/download/`.
+3. Second, let's try to download a document from `/home/{user}/Documents/work/FTPServer/server/` to `/home/{user}/Documents/work/FTPServer/download/`.
   
 	![](img/ss4.png)
 
