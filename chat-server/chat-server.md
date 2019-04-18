@@ -65,7 +65,7 @@
 
     ![](img/ss11.png)
 
-    All clients will get the messages, except client named "vincent" who is not a member because he is a boy.
+    All clients will get the messages, except client 4 who is not a member because he is a boy.
 
 7. Last, let's exit from TCurah using `#KELUAR#` command.
     
