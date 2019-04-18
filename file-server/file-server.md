@@ -1,6 +1,6 @@
 # File Server
 ## Tools
-1. Python 3
+1. Python 2
 2. Socket 
 3. Thread 
 4. Asyncore for asynchronous server
@@ -77,7 +77,7 @@
 
 ### Asynchronous server
 1. Run the `async-server.py`.
-2. Async-server's features and functionalities are same as the sync-server's, but it's executed asynchronously. These are some proves.
+2. Async-server's features and functionalities are same as the sync-server's, but it's executed asynchronously. These are some proves:
    
    ![](img/async/ss1.png)
 
