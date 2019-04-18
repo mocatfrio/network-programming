@@ -11,4 +11,4 @@ By:
 ## Assignments
 1. [FTP (File Transfer Protocol) Server](ftp-server/ftp-server.md)
 2. [Chat Server](chat-server/chat-server.md)
-3. [File Server](file-server.md)
+3. [File Server](file-server/file-server.md)

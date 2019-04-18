@@ -41,11 +41,11 @@
 
     ![](img/ss5.png)
 
-4. Third, let's try to use send personal message feature using `#PRIBADI#` message. First case, client 2 will send a personal message to client 3 and client 1 doesn't get the message.
+4. Third, let's try to use send personal message feature using `#PRIBADI#` message. First case, client 2 send a personal message to client 3 and client 1 doesn't get the message.
    
     ![](img/ss7.png)
 
-    Then, second case, client 1 will send a personal message to client 3 too.
+    Then, second case, client 1 send a personal message to client 3 too.
 
     ![](img/ss6.png)
 

@@ -7,7 +7,7 @@
 
 ## Description
 * There are a client and a server
-* Server has two main features, i.e. uploading documents and downloading documents
+* Server has two main features, i.e. upload a file and download a file
 
 ## Code Snippet
 1. Server
@@ -111,7 +111,7 @@
 	
 	![](img/ss1.png)
 
-2. First, let's try to upload a document from `/home/{user}/Documents/work/FTPServer/upload/` to `/home/{user}/Documents/work/FTPServer/server/`.
+2. First, let's try to upload a file from `/home/{user}/Documents/work/FTPServer/upload/` to `/home/{user}/Documents/work/FTPServer/server/`.
 	
 	![](img/ss2.png)
 
@@ -122,7 +122,7 @@
 
 	![](img/ss3.png)
 
-3. Second, let's try to download a document from `/home/{user}/Documents/work/FTPServer/server/` to `/home/{user}/Documents/work/FTPServer/download/`.
+3. Second, let's try to download a file from `/home/{user}/Documents/work/FTPServer/server/` to `/home/{user}/Documents/work/FTPServer/download/`.
   
 	![](img/ss4.png)
 
@@ -133,6 +133,6 @@
 
 	![](img/ss5.png)
 
-4. Check the document downloaded. If all documents can be opened, it means your FTP server is running properly.
+4. Check the file downloaded. If all files can be opened, it means your FTP server is running properly.
    
 	![](img/ss6.png)
